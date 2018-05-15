@@ -1,0 +1,17 @@
+{
+  "name": "recompose-slide",
+  "version": "0.0.1",
+  "description": "this is document for study meeting.",
+  "main": "index.js",
+  "repository": "https://github.com/takahiro-saeki/recompose-slide.git",
+  "author": "takahiro-saeki",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "recompose": "^0.27.0"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  }
+}
